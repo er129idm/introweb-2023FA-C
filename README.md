@@ -69,9 +69,7 @@ By the end of the course, students will be able to:
 * Browser: Chrome or Firefox
 * Github Account: github.com/join (To be done as a class, will coordinate if you already have an account.)
 * Developer Tools for Chrome or Firefox
-  * Chrome Developer Tools, https://developers.google.com/chrome-developer-tools or
-	* Firebug for Firefox, http://getfirebug.com
-* HTML Text Editor: [https://www.sublimetext.com/](Sublime Text)
+* HTML Text Editor: [https://www.sublimetext.com/](https://www.sublimetext.com/)
 * Web Server Space
 	* We will be using Github Pages to host your websites, but will learn about other free and commercial alternatives as well.
 
@@ -86,7 +84,7 @@ Generally, new technical concepts will be introduced on Thursday along with larg
 
 There is no required textbook for this course, however students will be required to complete various online tutorials between classes.
 
-We will rely on language and library specific documentation and [https://www.w3schools.com/](W3Schools) extensively– one of our goals as a class is to "learn how to learn" by becoming adept at navigating these online resources.
+We will rely on language and library specific documentation and [https://www.w3schools.com/](https://www.w3schools.com/) extensively– one of our goals as a class is to "learn how to learn" by becoming adept at navigating these online resources.
 
 ## Zoom and Class Recordings
 
